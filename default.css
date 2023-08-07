@@ -1,0 +1,24 @@
+/*
+	Kollektif Font
+	© Doğu Kaya.
+	Sans-serif
+*/
+
+@font-face {
+	font-family: 'tif';
+	font-weight: 400;
+	font-weight: normal;
+	font-display: swap;
+	src: local('Kollektif'),
+	url('fonts/Kollektif.woff2') format('woff2'),
+	url('fonts/Kollektif.woff') format('woff');
+}
+@font-face {
+	font-family: 'tif';
+	font-weight: 600;
+	font-weight: bold;
+	font-display: swap;
+	src: local('Kollektif-Bold'),
+	url('fonts/Kollektif-Bold.woff2') format('woff2'),
+	url('fonts/Kollektif-Bold.woff') format('woff');
+}
