@@ -6,8 +6,15 @@ table { width:100%; border:0; border-spacing:0; border-collapse:collapse; }
 caption { display:none; }
 th,td { border:0; vertical-align:middle; }
 button { overflow:visible; padding:0; margin:0; border:0; border-radius:0; background-color:#fff; cursor:pointer; }
-  
+
 #doz_header_wrap img { -webkit-user-select:none; -khtml-user-select:none; -moz-user-select:none; -o-user-select:none; user-select:none; }
-#w202402264237fb5473093 .dropdown-menu { left:50%; transform:translatex(-50%); text-align:center; }
-#w202402264237fb5473093 .dropdown-menu > li > a { font-weight:500; }
-#w202402264237fb5473093 .viewport-nav > li.dropdown > a.active:hover { color:#1f4bd6; }
+
+@media all and (min-width:1025px){
+  #w202402264237fb5473093 .dropdown-menu { left:50%; transform:translatex(-50%); text-align:center; }
+  #w202402264237fb5473093 .dropdown-menu > li > a { font-weight:500; }
+  #w202402264237fb5473093 .viewport-nav > li.dropdown > a.active:hover { color:#1f4bd6; }
+
+  .path {}
+  .path ul {}
+  .path ul li { display:inline-block; }
+}
