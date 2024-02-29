@@ -1,0 +1,13 @@
+html,body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,img { margin:0; padding:0; }
+html { width:100%; height:100%; }
+li { list-style:none; }
+img,fieldset { border:none; vertical-align:top; }
+table { width:100%; border:0; border-spacing:0; border-collapse:collapse; }
+caption { display:none; }
+th,td { border:0; vertical-align:middle; }
+button { overflow:visible; padding:0; margin:0; border:0; border-radius:0; background-color:#fff; cursor:pointer; }
+  
+#doz_header_wrap img { -webkit-user-select:none; -khtml-user-select:none; -moz-user-select:none; -o-user-select:none; user-select:none; }
+#w202402264237fb5473093 .dropdown-menu { left:50%; transform:translatex(-50%); text-align:center; }
+#w202402264237fb5473093 .dropdown-menu > li > a { font-weight:500; }
+#w202402264237fb5473093 .viewport-nav > li.dropdown > a.active:hover { color:#1f4bd6; }
