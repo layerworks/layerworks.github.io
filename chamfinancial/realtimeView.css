@@ -1,2 +1,5 @@
 .realtimeView { margin:50px 0 0; }
 .realtimeView .num_table {}
+.realtimeView .num_table table {}
+.realtimeView .num_table table thead {}
+.realtimeView .num_table table thead tr th { font-weight:normal; }
